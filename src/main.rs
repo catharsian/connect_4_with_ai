@@ -1,7 +1,5 @@
 use std::io;
-mod connect4;
-
-use connect4::*;
+use connect_4_with_ai::*;
 
 const DESCRIPTION: &str = "\
 This is a two-player game of Connect-4.
